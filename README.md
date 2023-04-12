@@ -1,5 +1,5 @@
 # Dummy API
-This API heavily uses and is based on dummyjson.com API
+This API uses dummyjson.com API
 
 
 ## For quick use
